@@ -1,2 +1,3 @@
 # FLIT-Market-Basket-Analysis-
-This is for all the projects, I will be engaging in the flit program
+This is my first project under the Flit program.
+My .ipynb file is uploaded
